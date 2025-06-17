@@ -17,5 +17,4 @@ decord
 librosa
 scikit-video
 ffmpeg
-flash-attn
 omegaconf
